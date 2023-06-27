@@ -13,6 +13,7 @@
     "express": "^4.18.2"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
     "@uswds/compile": "^1.0.0"
   }
 }
