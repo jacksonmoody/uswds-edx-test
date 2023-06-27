@@ -1,0 +1,8 @@
+---
+applications:
+- name: jackson-test
+  random-route: true
+  buildpacks:
+    - nodejs_buildpack
+  memory: 256M
+  stack: cflinuxfs4
