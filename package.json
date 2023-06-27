@@ -4,7 +4,7 @@
   "description": "USWDS Testing",
   "main": "index.js",
   "scripts": {
-    "start": "node web.js"
+    "build": "npx @11ty/eleventy"
   },
   "author": "",
   "license": "ISC",
