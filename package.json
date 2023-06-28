@@ -6,7 +6,7 @@
   "scripts": {
     "build": "npx @11ty/eleventy"
   },
-  "author": "",
+  "author": "Jackson Moody",
   "license": "ISC",
   "dependencies": {
     "@uswds/uswds": "^3.5.0",
