@@ -1,0 +1,10 @@
+{
+    "ci": {
+      "collect": {
+        "settings": {
+          "plugins": ["lighthouse-plugin-edx"]
+        },
+        "staticDistDir": "./_site"
+      }
+    }
+  }
